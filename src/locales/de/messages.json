@@ -488,7 +488,7 @@
     "message": "Ausgeloggt"
   },
   "loginExpired": {
-    "message": "Ihre Anmeldungsitzung ist abgelaufen."
+    "message": "Ihre Anmeldung ist abgelaufen."
   },
   "logOutConfirmation": {
     "message": "Wollen Sie sich wirklich abmelden?"
@@ -703,7 +703,7 @@
     "message": "YubiKey OTP Sicherheitsschlüssel"
   },
   "yubiKeyDesc": {
-    "message": "Verwende einen YubiKey um auf dein Konto zuzugreifen. Funtioniert mit YubiKey 4, Nano 4, 4C und NEO Geräten."
+    "message": "Verwende einen YubiKey um auf dein Konto zuzugreifen. Funktioniert mit YubiKey 4, Nano 4, 4C und NEO Geräten."
   },
   "duoDesc": {
     "message": "Verifizieren Sie mit Duo Security, indem Sie die Duo Mobile App, SMS, Anrufe oder U2F Sicherheitsschlüssel benutzen.",
@@ -914,7 +914,7 @@
     }
   },
   "kdfIterationsWarning": {
-    "message": "Wenn du die Anzahl der KDF-Iterationen zu hoch setzt, kann es sein, dass das Einloggen in Bitwarden (und Entsperren) auf langsameren Geräten länger dauert. Wir empfehlen, dass du den Wert um $INCREMENT$ Schrittweise anhebest und es auf allen Geräten testest.",
+    "message": "Wenn du die Anzahl der KDF-Iterationen zu hoch setzt, kann es sein, dass das Einloggen in Bitwarden (und Entsperren) auf langsameren Geräten länger dauert. Wir empfehlen, dass du den Wert um $INCREMENT$ Schrittweise anhebst und es auf allen Geräten testest.",
     "placeholders": {
       "increment": {
         "content": "$1",
@@ -1432,7 +1432,7 @@
     }
   },
   "noReusedPasswords": {
-    "message": "In Ihrem Tresor wurden keine Einträge mit wiedeverwendeten Passwörtern gefunden."
+    "message": "In Ihrem Tresor wurden keine Einträge mit wiederverwendeten Passwörtern gefunden."
   },
   "reusedXTimes": {
     "message": "Bereits $COUNT$ mal verwendet",
